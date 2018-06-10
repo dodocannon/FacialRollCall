@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "703958086214",
+    "firebase_url": "https://facialrec-bba5d.firebaseio.com",
+    "project_id": "facialrec-bba5d",
+    "storage_bucket": "facialrec-bba5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703958086214:android:ad3b3dc996475597",
+        "android_client_info": {
+          "package_name": "com.example.kevin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703958086214-o3gkd87oqsqf6rj4khr1dij7kt14q8q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevin.myapplication",
+            "certificate_hash": "e47b5b6f3e79c7b7b064bc982bd6dfb40f403ec0"
+          }
+        },
+        {
+          "client_id": "703958086214-rhanhvgfqpl1m7vi4ejgf8vdjd9ia5tk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "703958086214-rhanhvgfqpl1m7vi4ejgf8vdjd9ia5tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TKw2tf_Z5Llq3TVlZ-43xkULWZI6OA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703958086214-rhanhvgfqpl1m7vi4ejgf8vdjd9ia5tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
